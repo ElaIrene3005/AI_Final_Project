@@ -5,7 +5,8 @@ This project applies **unsupervised learning** techniques to group survey respon
 ---
 
 ## Project Structure
-```├── data/
+```
+├── data/
 │ └── survey_data.csv # Cleaned numerical responses from Google Forms
 ├── clustering_analysis.ipynb # Jupyter Notebook containing the clustering and PCA code
 └── README.md # Project documentation
